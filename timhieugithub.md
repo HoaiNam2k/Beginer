@@ -117,17 +117,17 @@ b. Add SSH Key vào server git hub
 
 Bây giờ bạn vào trang git hub, bạn đăng nhập vào rồi vào mục account chọn setting
 
-![image](https://user-images.githubusercontent.com/97047640/166664734-e25b0d42-6e67-4bff-88f7-71fea0ef4d45.png)
+![image](https://user-images.githubusercontent.com/109121358/178401029-a8099f58-25c5-4cf8-9a42-569c9906f372.png)
 
 Bạn nhấn chọn vào SSH and GPG keys
 
-![image](https://user-images.githubusercontent.com/97047640/166664804-cbcadb92-e54b-43ea-b1b2-bd6828463ef7.png)
+![image](https://user-images.githubusercontent.com/109121358/178401146-e42c11da-cf85-421a-abcf-47c25e3123b5.png)
 
 Tại đây bạn có thể thấy hiện có bao nhiêu máy local được kết nối với server của bạn, bạn có thể thêm hoặc remove các tài khoản.
 
 Bạn chọn New SSH Key để add key của bạn vào.
 
-![image](https://user-images.githubusercontent.com/97047640/166664836-035c4732-cb95-4162-9463-16d2643e28eb.png)
+![image](https://user-images.githubusercontent.com/109121358/178401180-8b2f532c-6db6-4c47-a549-5ecd3820044a.png)
 
 – Tiêu đề nên chọn tên của người code. Ví dụ bạn làm việc theo team, bạn nên để tên của các thành viên để dễ quản lý.
 
